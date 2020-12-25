@@ -54,7 +54,7 @@ int main(void)
 
 正常运行后，配置完 wifi 与路由器连接的名称和密码，向串口6发送16进制数据，就可以在App里看到数据了。
 
-<iframe  width="1024" height="768" src="//player.bilibili.com/player.html?aid=928061362&bvid=BV17T4y1M792&cid=265540564&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+B站视频：https://www.bilibili.com/video/BV17T4y1M792
 
 ## 注意事项
 
