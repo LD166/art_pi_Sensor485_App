@@ -6,12 +6,13 @@
 
 
 ## 硬件说明
-![art-pi1](art-pi1.png)
+![art-pi1](figures/art-pi1.png)
 如上图所示，串口（PC6 / PC7）采集485传感器数据，并通过板载 wifi 发送到服务器，手机 App 订阅传感器的数据主题进行折线展示。  
 [App仓库链接](https://github.com/NoobSmall/art_pi_485_App)
+
 ## 连接说明
 
-![art-pi2](art-pi2.png)
+![art-pi2](figures/art-pi2.png)
 
 ## 软件说明
 
